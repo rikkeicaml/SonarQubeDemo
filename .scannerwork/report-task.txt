@@ -1,0 +1,6 @@
+projectKey=DN3_Flutter_Sonar
+serverUrl=https://sonar2.rikkei.org
+serverVersion=10.1.0.73491
+dashboardUrl=https://sonar2.rikkei.org/dashboard?id=DN3_Flutter_Sonar
+ceTaskId=AYnyKT0U6X4MHD2_ZdVY
+ceTaskUrl=https://sonar2.rikkei.org/api/ce/task?id=AYnyKT0U6X4MHD2_ZdVY
